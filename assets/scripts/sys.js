@@ -1,4 +1,4 @@
-window.onload=function(){
+/*window.onload=function(){
 	   var elements=document.getElementsByClassName("read-article")
         console.log(document.getElementsByClassName('video-blog').childNodes)
 	  if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
@@ -9,5 +9,5 @@ window.onload=function(){
   alert("not mobile device");
 }
 }
-
+*/
 
